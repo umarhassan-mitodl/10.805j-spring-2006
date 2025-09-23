@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "028c113a-98ac-8349-08f7-8965766d3e46",
+  "instructors": {
+    "content": [
+      "e96c2df7-0533-33b2-7785-4aa14d5487d9",
+      "b0873d94-aa96-60d8-af67-2a638078602b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e3691271-310a-b630-9b11-4e785daf6605",
+    "website": "10-805j-technology-law-and-the-working-environment-spring-2006"
+  },
+  "course_title": "Technology, Law, and the Working Environment",
+  "course_description": "This course addresses the relationship between technology-related problems and the law applicable to work environment. The National Labor Relations Act, the Occupational Safety and Health Act, the Toxic Substances Control Act, state worker's compensation, and suits by workers in the courts are discussed in the course. Problems related to occupational health and safety, collective bargaining as a mechanism for altering technology in the workplace, job alienation, productivity, and the organization of work are also addressed. Prior courses or experience in environmental, public health, or law-related areas will be useful.\n",
+  "department_numbers": [
+    "10",
+    "IDS"
+  ],
+  "extra_course_numbers": "IDS.436 (formerly ESD.136J)",
+  "primary_course_number": "10.805J",
+  "course_image_thumbnail": {
+    "content": "4142649e-b928-05c1-7418-8861ee6380e4",
+    "website": "10-805j-technology-law-and-the-working-environment-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "3fdf17b7-f742-499f-a871-346cd5b2d59b",
+  "site_short_id": "10.805j-spring-2006",
+  "site_url_path": "courses/10-805j-technology-law-and-the-working-environment-spring-2006",
+  "title": "Course Metadata"
+}
